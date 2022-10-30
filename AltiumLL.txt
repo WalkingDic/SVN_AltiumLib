@@ -1,0 +1,10 @@
+fosin@inbox.ru
+qwerty
+D:\Doc\!ieeras\AltiumPr\!lib
+D:\Doc\AltiumLL\SamacSys.SchLib
+D:\Doc\AltiumLL\SamacSys.PcbLib
+0
+
+80
+True
+True

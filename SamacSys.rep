@@ -1,0 +1,101 @@
+CSV text has been written to file : SamacSys.csv
+
+Library Component Count : 93
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+!Pad                
+1EDI60N12AFXUMA1    Integrated Circuit
+ABM3B-8MHZ          
+ACPSA04-41CGKWA     Display
+AD8604ARZ           Integrated Circuit
+ADM3053BRWZ         Integrated Circuit
+ADP3330ARTZ3.3-RL7  Integrated Circuit
+ADP3338AKCZ-3.3RL7  High Accuracy, Ultralow IQ, 1 A, anyCAP Low Dropout Regulator
+AFBR-1528CZ         Integrated Circuit
+AFBR-2528CZ         Integrated Circuit
+AFBR-59F1Z          Integrated Circuit
+AME1-3.3SAZ         AC/DC преобразователь, 1Вт, 3.3В/0.3А
+BA56-12SRWA         Display
+BAT165E6327HTSA1    Diode
+BC56-12GWA          Display
+BC817-16LT1G        Transistor BJT NPN
+BC857BDW1T1G        Transistor
+BH-10SG             Connector
+BL-L189             Betlux Electronics
+BYV26C-TAP          Integrated Circuit
+BotLed_GR_TC002N11ARGNUGUR
+BotLed_RG_TC002N11ARGRURUG
+CC56-12SRWA         Индикатор 14.2мм 4х7 красный ОК, 24мКд
+CD74ACT08M          Integrated Circuit
+Capacitor - Film (MKP)Metallized Polypropylene Film Capacitors (MKP) Series/Type: B32774 ... B32778, B32778G4117K000 --- w- 35.0 ? h-50.0 ? l-57.5, 4 pin 52.5x20.3
+Capacitor - Film (MKT)Metallized Polyester Film Capacitors (MKT) Series/Type: B32520 ... B32529, B32526R3226+ --- w-16.0 ?h- 28.5 ? l- 41.5, 2 pin -- 37.5.
+Capacitor - non polarizedNon-polarised capacitor
+Capacitor - polarizedPolarised capacitor
+DS1069-8            Connector
+DS90LV019TM_NOPB    Integrated Circuit
+Feader_1x12pin      PLD-12 w\o header!
+Feader_1x2pin       PLD-2 w\o header!
+Feader_1x6pin       PLD-6 w\o header!
+Feader_2x3pin       BH-6, IDC-6, DS-1013-06S
+HAIS 50...400       
+HFBR-x52x-rx_tx     
+Header              
+Header_1x10pin      PLS-10(R) (DS-1022-1x10)
+Header_1x12pin      PLS-12(R) (DS-1022-1x12)
+Header_1x16pin      PLS-16(R) (DS-1022-1x16)
+Header_1x2pin       PLD-2
+Header_1x4pin       WF-4R (DS1070-4 MR), PLD-4
+Header_1x6pin       PLD-6
+Header_2x10_STLink  BH-20, IDC-20, DS-1013-20S
+Header_2x10pin      BH-20, IDC-20, DS-1013-20S
+Header_2x10pin_slot Connector
+Header_2x2pin       PLD-4
+Header_2x3pin       BH-6, IDC-6, DS-1013-06S
+Header_2x5pin       BH-10, IDC-10, DS-1013-10S
+Header_2x7pin       BH-14, IDC-14, DS-1013-14S
+IMBF170R450M1XTMA1  MOSFET (N-Channel)
+IPW60R017C7         MOSFET (N-Channel)
+IRM-05-12           Power Supply
+KAA-3528ESGC        Double LED SMD
+KCPSC04-105         Display
+KLS1-603C-20        20 pin slot
+KLS1-603C-26        26 pin slot
+Kingbright-L-469EGW L-469EGW. светодиод красный /зеленый d=3мм 15/10мКд Цвета свечения красный, зелёный, Длина волны 1 цвета 627 нм, Сила света 1 кристалла 15 мкд, Угол по оризонтали 100 °, Тип линзы белая, матовая
+Kingbright-L-59EGC  L-59EGC является двухцветным индикаторным светодиодом с прозрачной линзой, THT, круглым профилем, мощностью света 150мкд, углом обзора 24°, длиной волны 625нм и 568нм. Высокая эффективность источника красного цвета обеспечивается GaAsP на GaP. Источник света зеленого цвета изготовлено из фосфида галлия.
+Kingbright-L-59GYC  L-59GYC, Светодиод зеленый/желтый 24° d=5мм 100/60мКд 568/588нМ
+L-1394              2mm FLAT TOP LED LAMP
+LM2937IMP-3.3_NOPB  Integrated Circuit
+LMC7101             Single, CMOS, 1MHz, Rail-to-Rail In/Out Operational Amplifier
+LMC7101AYM5-TR      Integrated Circuit
+LQH43PN1R0N26L      Inductor
+MAX6950EEE+         Integrated Circuit
+MAX6954AAX+         Integrated Circuit
+MAX7221EWG+         Integrated Circuit
+MCP2551-E_P         Integrated Circuit
+MCP73833-FCI_UN     Integrated Circuit
+Molex_1050170001    Micro-USB B Receptacle, Bottom Mount, Surface Mount, with Solder Tabs, Lead-Free
+Mount_Sleeve        
+NE555DR             Integrated Circuit
+PEC12R-4220F-S0024  Bourns Inc. Encoder
+PESD2CAN            PESD2CAN
+CAN bus ESD protection diode
+R0603               Resistor
+R1210               Resistor
+REF193GSZ           Voltage Reference, 3.0V to 4.5V, Analog Devices
+Radiator            
+Resistor            Resistor
+SB_1                
+SI2312BDS-T1-BE3    MOSFET (N-Channel)
+SN65HVD230DRG4      3.3 V CAN Transceiver with Standby Mode 8-SOIC -40 to 85
+SN74LVC2G04DRLR     2-ch, 1.65-V to 5.5-V inverters
+STM32F103C8T6TR     Integrated Circuit
+STM32F103x_LQFP48   
+STM32F105R8T6       Integrated Circuit
+STM32L031F6P6       Integrated Circuit
+STM32L031G4U6       Integrated Circuit
+TEN 5-1210          Traco Power DC/DC Converter TEN 5 Series, 6 Watt
+TMR 2-1210          Traco Power DC/DC Converter TMR 2 Series, 2 Watt
+TestPoint           
+UCC5390ECD          Integrated Circuit
