@@ -2,3 +2,22 @@
 3dModels/.SLDPRT
 3dModels/*/.SLDASM
 3dModels/*/
+Temp/
+__Previews/
+History/
+SamacSys_Images/
+AltiumLL.dfm
+AltiumLL.PrjScr
+AltiumLL.txt
+AltiumLL.vbs
+defs.dft
+defs.MMsdft
+SamacSys.cmp
+SamacSys.csv
+SamacSys.ERR
+SamacSys.ico
+SamacSys.PcbLib
+SamacSys.png
+SamacSys.rep
+SamacSys.SchLib
+Uninstall Altium Library Loader.lnk
