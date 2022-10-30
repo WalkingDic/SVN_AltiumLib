@@ -1,2 +1,4 @@
-3dModels/*.stl
-3dModels/*.SLDPRT
+3dModels/.stl
+3dModels/.SLDPRT
+3dModels/*/.SLDASM
+3dModels/*/
