@@ -1,5 +1,8 @@
 History/
- 
+3dModels/*.SLDPRT
+
+3dModels/*.stl
+3dModels/*/
 SamacSys.ERR
 SamacSys.cmp
 SamacSys.csv
