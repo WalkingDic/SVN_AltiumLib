@@ -3,6 +3,7 @@
 3dModels/*/.SLDASM
 3dModels/*/
 Temp/
+*.cmp
 __Previews/
 History/
 SamacSys_Images/
