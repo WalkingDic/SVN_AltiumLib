@@ -1,3 +1,3 @@
 # SVN_AltiumLib
 add remove add add
-delete del
+delete del re2
