@@ -1,3 +1,7 @@
 # SVN_AltiumLib
-add remove add add
-delete del re2
+need to modify in AltiumLL.vbs:
+line ~ 813
+Sub Form1Show(Sender)
+...
+   NEW InstalledDir = InstallFolder & "\!ieeras\AltiumPr\!LLib"
+...
